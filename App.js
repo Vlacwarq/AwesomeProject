@@ -7,6 +7,7 @@ export default function App() {
       <Text>Test Txt</Text>
       <Text>Masha</Text>
       <Text>Masha</Text>
+      <Text>Masha</Text>
       <StatusBar style="auto" />
     </View>
   );
