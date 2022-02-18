@@ -7,6 +7,8 @@ export default function App() {
       <Text>Test Txt</Text>
       <Text>Masha</Text>
       <Text>Masha</Text>
+      <Text>Vlad 2</Text>
+      <Text>Vlad 12</Text>
       <StatusBar style="auto" />
     </View>
   );
